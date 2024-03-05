@@ -45,7 +45,7 @@ It was necessary to train a several versions of the model in order to optimize t
         Loss: 0.5587
 
 Several optimization methods were tried:
-  * chaging the bis for the CLASSIFICATION and APPLICATION_TYPE variables
+  * Changing the bins for the CLASSIFICATION and APPLICATION_TYPE variables
   * Dropping the STATUS variable from the data
   * Increase the number of neurons per layer
   * Add more hidden layers
